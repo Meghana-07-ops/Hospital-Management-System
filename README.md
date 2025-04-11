@@ -55,7 +55,7 @@ python hospital.py
 
 📄 Project Report
 You can find the full project report here:
-📘Project_report.pdf
+📘Project_Report.pdf
 
 📃 License
 This project is intended for academic and learning purposes.
